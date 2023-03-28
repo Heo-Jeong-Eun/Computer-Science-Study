@@ -33,6 +33,15 @@
 
 <br>
 
+## 📆 schedule
+>|          주제          |      학습 기간     |      모의 면접     |      참고     |
+>| --------------------- | ---------------- | ---------------- |---------------- |
+>|컴퓨터 구조 & 운영체제|2023-02-19 ~ 2023-03-25|2023-03-25|<a href ='https://www.google.co.kr/books/edition/%ED%98%BC%EC%9E%90_%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94_%EC%BB%B4%ED%93%A8%ED%84%B0_%EA%B5%AC%EC%A1%B0+%EC%9A%B4/OXmAEAAAQBAJ?hl=ko&gbpv=1&dq=%ED%98%BC%EC%9E%90+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94+%EC%BB%B4%ED%93%A8%ED%84%B0+%EA%B5%AC%EC%A1%B0+%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C&printsec=frontcover'>**혼자 공부하는 컴퓨터 구조 + 운영체제**</a>|
+>|네트워크|2023-03-27 ~ |||
+>|데이터 베이스||||
+
+<br>
+
 ## 🫡 rule
 
 ### schedule && progress
